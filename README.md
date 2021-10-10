@@ -9,9 +9,9 @@ National Institute of Technology, Silchar
 
 Submitted by- Parijat Biswas Pritom
 
-2012164
+Sc. I'd: 2012164
 
-CSE Sec-B
+CSE, Sec-B
 
 
 Questions:
